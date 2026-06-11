@@ -1,0 +1,8 @@
+li {
+  list-style: none;
+}
+li a {
+  color: blueviolet;
+  -webkit-text-decoration: non;
+          text-decoration: non;
+}/*# sourceMappingURL=style.css.map */
