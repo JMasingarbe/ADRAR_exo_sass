@@ -1,0 +1,9 @@
+div {
+    background-color: lightgray;
+    p {
+        color: red;
+    }
+    &:hover {
+        color: aqua;
+    }
+}
