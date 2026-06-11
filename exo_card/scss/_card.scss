@@ -1,0 +1,19 @@
+@use "./variable" as *;
+
+article div {
+    font-family: $font-fam;
+    border: solid 1px $color1;
+    border-radius: $c-radius;
+    padding: $pad;
+    width: $width-card;
+
+    h2 {
+        color: $color1;
+        text-align: center;
+    }
+
+    h3 {
+        color: $color1;
+        text-align: end;
+    }
+}
